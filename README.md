@@ -3,7 +3,7 @@
 
 Ce projet présente un pipeline complet en Python pour le traitement et l'analyse de données de spectroscopie de perte d'énergie d'électrons (EELS) acquises en mode image-spectre (SPIM). Le flux de travail utilise des techniques de machine learning non supervisé pour extraire, visualiser et segmenter les différentes phases ou états chimiques présents dans les données.
 
-Le notebook Jupyter (`spim_t8_6026-6226_processingV2.ipynb`) guide l'utilisateur à travers chaque étape, du prétraitement des données brutes à la visualisation finale des clusters et de leurs spectres caractéristiques.
+Le notebook Jupyter (`spim_t8_6026-6226_processing_github.ipynb`) guide l'utilisateur à travers chaque étape, du prétraitement des données brutes à la visualisation finale des clusters et de leurs spectres caractéristiques.
 
 ---
 
