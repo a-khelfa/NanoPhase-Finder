@@ -1,0 +1,27 @@
+;File created by HyperSpy version 1.7.6
+key	value
+byte-order	dont-care
+data-length	4
+data-type	float
+date	
+depth	1018
+depth-name	Energy loss
+depth-origin	-1.8956794169542093
+depth-scale	0.01056000031530857
+depth-units	eV
+ev-per-chan	0
+height	13
+height-name	y
+height-origin	-0.0
+height-scale	1.0
+height-units	
+offset	0
+record-by	vector
+signal	EELS
+time	
+title	 model from decomposition with 5 components
+width	48
+width-name	x
+width-origin	-0.0
+width-scale	1.0
+width-units	
